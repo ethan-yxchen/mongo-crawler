@@ -22,7 +22,7 @@ At the same time, users and developers of *mongo-crawler* should keep in mind th
 This section describes package dependency of *python2-mongo-crawler*, since it is the only implementation of *mongo-crawler* at this time point.
 
 * Python 2.6 or newer
-* MongoDB 3.2 or newer (possibly compatible to 3.0, not tested)
+* MongoDB 3.2 or newer (possibly compatible to 3.0, not tested) <a href="https://www.mongodb.org/downloads#production">download</a>,  <a href="https://docs.mongodb.org/manual/">doc</a>
 * python2-pymongo
 * python2-requests <a href="http://docs.python-requests.org/en/master/">http://docs.python-requests.org/en/master/</a>
 * python2-lxml <a href="http://lxml.de/">http://lxml.de/</a>
