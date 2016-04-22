@@ -1,11 +1,11 @@
 # mongo-crawler
 
-# Overview
+## Overview
 
 *mongo-crawler* is a coordinated, agent-based, distributed web crawler. 
 
 *mongo-crawler* is a protocol specifying how the agents communicate and collaborate.
-It is language independent, currently offers python implementation.
+It is language independent, currently offers python2 implementation.
 
 The minimal set of agents that can perform web crawling task automatically, should consists of at least four types of agents: jobpcaker, collector, downloader, and parser.
 
